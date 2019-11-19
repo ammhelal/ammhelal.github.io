@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 <ul>
 <li><strong>Ahmed E. Helal, </strong>Ashwin Aji, Michael Chu, Bradford Beckmann, Wu-chun Feng, &ldquo;<em>Adaptive Task Aggregation for High-Performance Sparse Solvers on GPUs</em>&rdquo;, In proceedings of the IEEE/ACM International Conference on Parallel Architectures and Compilation Techniques <strong>(PACT 2019)</strong><strong></strong><strong></strong></li>
 <li>Mohamed Hassan, <strong>Ahmed E. Helal</strong>, Peter Athanas, Wu-chun Feng, Yasser Hanafy, &ldquo;<em>Exploring FPGA-Specific Optimizations for Irregular OpenCL Applications</em>&rdquo;, In proceedings of the IEEE International Conference on Reconfigurable Computing and FPGAs <strong>(ReConFig 2018)</strong><strong></strong></li>
