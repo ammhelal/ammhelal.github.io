@@ -13,7 +13,7 @@ author_profile: true
 <ul>
 <li>Mohamed Hassan, <strong>Ahmed E. Helal</strong>, Peter Athanas, Wu-chun Feng, Yasser Hanafy, &ldquo;<em>Exploring FPGA-Specific Optimizations for Irregular OpenCL Applications</em>&rdquo;, In proceedings of the IEEE International Conference on Reconfigurable Computing and FPGAs <strong>(ReConFig 2018)</strong>
 </li>
- </ul>
+</ul>
 
 <ul>
 <li>Paul Sathre, <strong>Ahmed E. Helal</strong>, Wu-chun Feng, &ldquo;<em>A Composable Workflow for Productive Heterogeneous Computing on FPGAs via Whole-Program Analysis and Transformation</em>&rdquo;, In proceedings of the IEEE International Conference on Reconfigurable Computing and FPGAs <strong>(ReConFig 2018)</strong><strong></strong></li>
