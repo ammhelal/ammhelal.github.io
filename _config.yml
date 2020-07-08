@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ahmed E. Helal"
 title_separator          : "-"
 name                     : &name "Ahmed E. Helal"
-description              : &description "Ph.D. Candidate at Virginia Tech."
+description              : &description "Research Scientist at Intel Labs."
 url                      : https://ammhelal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ammhelal.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ahmed E. Helal"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Virginia Tech."
-  location         : "Torg 2050, Blacksburg, VA 24061"
+  bio              : "Research Scientist at Intel Labs."
+  location         : "Santa Clara, California 95054"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eFuj7pYAAAAJ&hl=en"
